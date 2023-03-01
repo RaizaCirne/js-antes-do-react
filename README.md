@@ -1,4 +1,4 @@
-# Bem-vindes 👋
+# Bem-vindos 👋
 👓 Repositório de estudos com resumos e dicas para processos seletivos em estágio!
 
 <br>
