@@ -13,13 +13,13 @@
 
 <br>
 
-<p>:white_square_button: Introdução :hourglass:</p>
+<p>:white_check_mark: Introdução <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Entrando no ringue </p>
 <p>:white_large_square: Tudo começa na mente </p>
 <p>:white_large_square: Preparando o terreno </p>
-<p>:white_large_square: Currículo, busca de vagas e candidaturas </p>
+<p>:white_check_mark: Currículo, busca de vagas e candidaturas <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Testes de Lógica, comportamental e Redação </p>
-<p>:white_large_square: Apresentação individual </p>
+<p>:white_square_button: Apresentação individual :hourglass:</p>
 <p>:white_large_square: Dinâmica de grupo e cases </p>
 <p>:white_large_square: Entrevista </p>
 <p>:white_large_square: Choices </p>
