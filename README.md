@@ -19,7 +19,7 @@
 <p>:white_large_square: Preparando o terreno </p>
 <p>:white_check_mark: Currículo, busca de vagas e candidaturas <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Testes de Lógica, comportamental e Redação </p>
-<p>:white_square_button: Apresentação individual :hourglass:</p>
+<p>:white_check_mark: Apresentação Individual <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Dinâmica de grupo e cases </p>
 <p>:white_large_square: Entrevista </p>
 <p>:white_large_square: Choices </p>
