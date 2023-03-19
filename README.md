@@ -21,7 +21,7 @@
 <p>:white_large_square: Testes de Lógica, comportamental e Redação </p>
 <p>:white_check_mark: Apresentação Individual <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Dinâmica de grupo e cases </p>
-<p>:white_large_square: Entrevista </p>
+<p>:white_check_mark: Entrevista <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Choices </p>
 <p>:white_large_square: Passei na vaga, e agora? </p>
 <p>:white_large_square: Extras </p>
