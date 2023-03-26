@@ -9,7 +9,7 @@
 
 <br>
 
-## Curo Plano da Aprovação 👨‍🎓📚
+## Curso Plano da Aprovação 👨‍🎓📚
 
 <br>
 
