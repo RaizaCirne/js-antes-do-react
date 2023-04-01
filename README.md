@@ -14,7 +14,7 @@
 <br>
 
 <p>:white_check_mark: Introdução <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
-<p>:white_large_square: Entrando no ringue </p>
+<p>:white_check_mark: Entrando no ringue <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
 <p>:white_large_square: Tudo começa na mente </p>
 <p>:white_large_square: Preparando o terreno </p>
 <p>:white_check_mark: Currículo, busca de vagas e candidaturas <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a></p>
