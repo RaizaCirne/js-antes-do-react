@@ -1,4 +1,4 @@
-// Object.values → método pra retornar todos os valores do objeto ao invés das chaves
+// Object.values() → método pra retornar todos os valores do objeto ao invés das chaves
 const user = {
   name: 'Diego',
   idade: 27,

@@ -1,4 +1,4 @@
-// Object.keys → método pra retornar um vetor com todas as chaves do objeto
+// Object.keys() → método pra retornar um vetor com todas as chaves do objeto
 
 const user = {
   name: 'Diego',
