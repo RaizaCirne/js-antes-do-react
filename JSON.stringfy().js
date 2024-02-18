@@ -15,7 +15,7 @@ const user = {
 [
   "Diego",
   27,
-  {
+{
   "street":"Rua teste",
   "number":176
   }
