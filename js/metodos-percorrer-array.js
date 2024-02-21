@@ -7,3 +7,7 @@ for(const i of array) {
 }
 
 // forEach() -> outra forma de percorrer um array 
+array.forEach(item => {
+  // document.body.innerText += item; -> para mostrar na tela
+  console.log(item);
+})
